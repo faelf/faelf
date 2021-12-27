@@ -13,11 +13,6 @@
 </div>
 
 </br>
-![matrix](https://user-images.githubusercontent.com/96685982/147490824-0da7d26d-6cf4-49e5-8c82-023e9ef9a9ad.gif)
-</br>
-
-
-</br>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/faelf">
