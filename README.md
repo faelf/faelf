@@ -6,6 +6,9 @@
 - 💬 Ask me about problems envolving HTML and CSS
 - ⚡ Fun fact: I speak in English, Portuguese (Brazilian) and I'm learning French and LIBRAS
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+
 </br>
 
 <div align="center">
