@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! I'm Rafael! // Oi! Eu sou o Rafael! // Salut! Je suis Rafael! // other languages are coming
 
-<!--
-**faelf/faelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working by myself
+- 🌱 I’m currently learning Front-end
+- 🤔 I’m looking for help with JavaScript
+- 💬 Ask me about problems envolving HTML and CSS
+- ⚡ Fun fact: I speak in English, Portuguese (Brazilian) and I'm learning French and LIBRAS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/faelf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelf&layout=compact&langs_count=7&theme=dracula"/>
+</div>
