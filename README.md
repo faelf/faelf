@@ -16,7 +16,7 @@
 
 </br>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/faelf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelf&layout=compact&langs_count=7&theme=dracula"/>
@@ -25,7 +25,5 @@
  </br> 
 
 # 🎧 Spotify Playing
-
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12145155242?si=26c993bc6b354cd2)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lu07y4x1m46be4n09f5m9dra1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
